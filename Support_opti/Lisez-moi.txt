@@ -1,0 +1,56 @@
+********************************************************************************
+                   Règles de la recherche linéaire d'optimisation
+********************************************************************************
+
+--------------------------------------------------------------------------------
+                               General Information
+--------------------------------------------------------------------------------
+
+ (c)Copyright 2014 pour www.apprendre-a-programmer.com
+ 
+ La date de la publication sur le net (exclusif sur le site) : 27/02/2014.
+
+--------------------------------------------------------------------------------
+                              Information Générale
+--------------------------------------------------------------------------------
+Type.................................: fonctions
+Langage de programmation.............: Matlab
+Editeur..............................: 
+Developper...........................: 
+Other Info...........................:
+Format...............................: Fichier zip
+Format Créé avec ....................: 7-zip
+
+--------------------------------------------------------------------------------
+                              Contenu du fichier
+--------------------------------------------------------------------------------
+I   - line_search
+
+1- Méthode d'Armijo       (armijo.m)
+2- Méthode de Wolf        (wolf.m)
+3- Méthode de Goldstein   (goldstein.m)
+
+
+II  - opti_methods
+
+1- Méthode gradient       (gradient.m)
+2- Méthode gradient conjuguée       (grad_conjugate.m)
+3- Méthode newton   (newton.m)
+4- Méthode d'Armijo       (armijo.m)
+5- Méthode de Wolf        (wolf.m)
+6- Méthode de Goldstein   (goldstein.m)
+
+
+III - Tools_opti
+
+1- fonction pour calculer le gradient (dervi_fonc.m)
+
+iV  - Examples_opti
+
+--------------------------------------------------------------------------------
+                               Notes d'utilisation
+--------------------------------------------------------------------------------
+voir le support en PDF.
+
+
+
